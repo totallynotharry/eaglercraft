@@ -5,5 +5,8 @@ It can also be about adventuring with friends or watching the sun rise over a bl
 
 You can play Minecraft on PC/Mac/Browser. It can be played in the browser with Eaglercraft, an AOT compiled voxel game inspired from Minecraft designed to run on Javascript. It uses TeaVM and LAX1DUDE's OpenGL emulator to run a Java virtual machine fully compatible with browsers. Minecraft: Pocket Edition is available for iOS and Android, and Minecraft: Xbox 360 Edition is available on the XBLA Marketplace. So far loading... people have played the Browser version of the game. Phew.
 
+## How to play
+Download this repository as a zip, extract it and run index.html OR go to totallynotharry.github.io/eaglercraft
+
 ## Disclaimer
 Eaglercraft is not made by me, it is made by someone else who violated the Mojang TOS making this.
